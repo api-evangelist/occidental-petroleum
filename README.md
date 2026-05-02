@@ -16,7 +16,7 @@ Occidental Petroleum is a Fortune 500 company. This repository captures the APIs
 ## Timestamps
 
 - **Created:** 2026-03-21
-- **Modified:** 2026-03-21
+- **Modified:** 2026-04-28
 
 ## APIs
 
@@ -24,7 +24,7 @@ No public APIs have been documented yet. Contributions welcome.
 
 ## Common Properties
 
-- [Website](https://www.occidental-petroleum.com)
+- [Website](https://www.oxy.com)
 
 ## Maintainers
 
