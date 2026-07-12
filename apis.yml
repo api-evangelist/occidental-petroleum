@@ -6,6 +6,8 @@ url:
 modified: '2026-04-28'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/occidental-petroleum-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/oxy
   - type: Website
