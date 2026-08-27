@@ -1,4 +1,5 @@
 aid: occidental-petroleum
+name: "Occidental Petroleum"
 specificationVersion: '0.23'
 accessModel:
   pricing: unknown
