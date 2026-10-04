@@ -26,6 +26,12 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/occidental-petroleum.png
 tags:
   - Fortune 500
+  - Deepwater
+  - Energy
+  - Natural Gas
+  - Oil and Gas
+  - Petroleum
+  - Upstream
 url: 
   https://raw.githubusercontent.com/api-evangelist/occidental-petroleum/refs/heads/main/apis.yml
 modified: '2026-04-28'
