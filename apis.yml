@@ -34,9 +34,11 @@ tags:
   - Upstream
 url: 
   https://raw.githubusercontent.com/api-evangelist/occidental-petroleum/refs/heads/main/apis.yml
-modified: '2026-04-28'
+modified: '2026-10-06'
 apis: []
 common:
+  - url: https://www.oxy.com/news/
+    type: Blog
   - type: DomainSecurity
     url: security/occidental-petroleum-domain-security.yml
   - type: LinkedIn
